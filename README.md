@@ -6,7 +6,6 @@ Objetivo Principal:
 
 Projetos Semelhantes:
 	https://github.com/agriya/oliker
-	https://github.com/skniit94/olx-clone
 
 Linguagens:
 De início as linguagens usadas serão: 
