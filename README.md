@@ -4,6 +4,9 @@
 Objetivo Principal:
 	Apresentar uma plataforma onde qualquer comerciante pode disponibilizar seus produtos e seu contato em sua região apenas. Somente comerciantes com lojas abertas podem se registrar. 
 
+# Link
+https://rb.gy/qf2m6i
+
 Projetos Semelhantes:
 	https://github.com/agriya/oliker
 
