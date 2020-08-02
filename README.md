@@ -1,6 +1,19 @@
 # ProjetoElonMusk
 This software will connect people in the community. You might search for something or offering something. Trust is built on that community. 
 
+Objetivo Principal:
+	Apresentar uma plataforma onde qualquer comerciante pode disponibilizar seus produtos e seu contato em sua região apenas. Somente comerciantes com lojas abertas podem se registrar. 
+
+Projetos Semelhantes:
+	https://github.com/agriya/oliker
+	https://github.com/skniit94/olx-clone
+
+Linguagens:
+De início as linguagens usadas serão: 
+JavaScript
+NodeJS?
+Angular/Bootstrap
+SQL
 
 Index.html
 Caixa de pesquisa.
