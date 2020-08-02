@@ -1,5 +1,5 @@
 # ProjetoElonMusk
-<strong>This software will connect people in the community. You might search for something or offering something. Trust is built on that community. <strong>
+<strong>This software will connect people in the community. You might search for something or offering something. Trust is built on that community. </strong>
 
 Objetivo Principal:
 	Apresentar uma plataforma onde qualquer comerciante pode disponibilizar seus produtos e seu contato em sua região apenas. Somente comerciantes com lojas abertas podem se registrar. 
